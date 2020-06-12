@@ -1,0 +1,28 @@
+html {
+    width: 600px;
+
+}
+body {
+background: #eee;
+font-family: Helvetica;
+line-height: 21px;
+font-size: 21px;
+font-weight: 100;
+width: 600px;
+margin: 0 50%;
+}
+
+.titre {
+    border-color: white;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 3px #CCCCCC;
+    
+}
+
+.text {
+    font-size: 0.7em;
+}
+
+.float {
+    float: left;
+}

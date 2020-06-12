@@ -1,0 +1,88 @@
+main {
+    width : 750px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+
+.header {
+    background-repeat: no-repeat;
+    background-color: #B8CB21 ;
+    width : 750px;
+    margin: 0 auto;
+   
+} 
+a:link {
+    font-size: 1.3em;
+    color: #265301;
+    margin :0 30px;
+    
+}    
+
+
+
+.header nav  {
+    float: right;
+    margin: 47.5px;
+}
+
+
+body{
+    background-image: url("../img/fond.png");
+    font-family: oswald, sans-serif;
+
+}
+
+.float {
+    float: left;
+    width: 250px;
+    /*height: auto;*/
+    margin: 45px 0 0 0;
+    padding: 25px 10px 0 0;
+   
+
+}
+
+
+h2 {
+    color :#B9CA24;
+    margin: 0 0 0 -250px;
+    padding: 25px 0 ;
+
+    
+}
+
+p {
+    padding: -16 0 0 0; 
+    margin: -5px 0 20px 0;
+   
+}
+
+.bouton {
+    padding: 5px 10px;
+     margin: 0 30px 300px 0;
+    background-color : #B9CA24;
+    float: right;
+    text-decoration: none;
+
+
+}
+    
+span {
+    color: white;
+    font-size: 0.8em;
+
+    
+}
+
+section{
+    padding: 0 0 50px 0;
+    margin: 0 10px;
+}
+
+footer{
+    padding: 25px 0 0 0;
+}
+
+titre {
+    font-size: 1.8em;
+}
