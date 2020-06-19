@@ -1,0 +1,47 @@
+.calendar{
+   table-layout: fixed;
+    margin: 2% auto;
+    border: 9px solid #F8FAFB; /*J'ai agrandi la bordure pour qu'elle se voit sur le tableau entier*/
+    font-size: 1.5em;
+    text-align: center;
+    background: #F8FAFB;
+    /*border-spacing: 15px;  A RETIRER sur le table entier*/
+    border-collapse: collapse; /*A RAJOUTER pour retirer les démarquations entre les cellules*/
+    padding : 20px 70px 0 70px;
+}
+
+
+tbody{
+    border-spacing: 15px; /*A RAJOUTER sur la partie où tu veux un espace entre les cellules*/
+}
+
+tbody td{
+    border: 8px solid #F8FAFB; /*A RAJOUTER une bordure sur les cellules que tu veux espacer*/
+}
+
+.mois {
+    background: white;
+    text-align: left;
+}
+
+
+.jourMois {
+    font-size: 1.6em;
+    text-align: left;
+    font-weight: bolder;
+    background: white;
+}
+
+
+.jourSemaine {
+    text-align: left;
+    font-weight: bolder;
+    background: white;
+    margin: 0 70px 0 70px;
+}
+
+
+.rendezVous  {
+    background: white;
+}
+

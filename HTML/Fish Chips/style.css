@@ -1,0 +1,184 @@
+
+
+body {
+    background-image: url("img/fond.png");
+    max-width: 100%;
+    font-size: 1em;
+    font-family: "open sans";
+    
+}
+
+header {
+    background-color : #25B3B4;
+    margin : -8px;
+
+}
+
+.headerImage {
+margin-left : 35%;
+margin-right: auto;
+}
+
+header nav {
+	margin-left : 30%;
+    margin-right: auto;
+}
+
+header nav a {
+    color : #E9F7F7;
+    text-decoration: none;
+    margin-left: 30px;
+    font-family: "Slabo 27px";
+}
+
+.hr {
+    color: #2B9AA0;
+    border: solid;
+
+}
+
+main {
+        margin : 0 25%;
+}
+
+.titreSection {
+    font-size: 2.5em;
+    font-family: "Slabo 27px";
+    color: #454A54;
+    text-align: center;
+     font-weight: normal;
+     margin: 35px 0 15px 0;
+}
+
+.article p {
+    text-align: center;
+}
+
+.article {
+    margin: 0 0 55px 0;
+}
+
+.today {
+    display: inline-block;
+      width: 70%;
+      background-color : #B6DEDC;
+
+}
+
+h2 {
+    font-size: 3.5em;
+    font-family: "Slabo 27px";
+    color: #454A54;
+    text-align: center;
+    font-weight: normal;
+
+}
+
+span {
+    color : #2B9AA0;
+}
+
+.titreArticle {
+    font-size: 1.8em;
+    font-family: "Slabo 27px";
+    color: #454A54;text-align: center;
+    font-weight: normal;
+
+}
+    
+
+h5{
+    font-size: 1.4em;
+    font-family: "Slabo 27px";
+    font-weight: normal;
+
+}
+
+section i {
+    color : #34B1B2;
+    font-size: 20px;
+    margin: 10px;
+
+
+    
+    
+}
+   
+   
+.article1 {
+    width: 48%;
+    float: left;
+    text-align: left;
+    margin: 0 0 0 10px;
+}
+
+.article2 {
+    width: 48%;
+    float: left;
+    float: right;
+    text-align: left;
+    
+}
+
+
+article  a {
+	float: right;
+	text-decoration: none;
+	color: white;
+	background-color: #2B9AA0;
+	padding: 10px;
+	margin: 0 40px 40px 0;
+}
+
+.imageMenu {
+    border-radius: 60px;
+    float : left;
+    margin: 0 10px 0 0;
+}
+
+
+aside {
+       background-color :#34B1B2;
+      display: inline-block;
+      width: 30%;
+      float: right;
+      margin : 0 -20px;
+      border: solid;
+      border-color: #2B9AA0;
+      color : #E9F7F7;
+}
+
+aside i {
+      color : #98D3D2;  
+}
+
+aside a {
+    text-decoration: none;
+    color : #98D3D2;
+}
+
+.News {
+    color : #98D3D2 ;
+    font-family: "Slabo 27px";
+}
+
+
+.logoPoisson {
+    float: right;
+    margin : -50px -50px;
+
+}
+
+
+
+#licence {
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+
+#licence img {
+    width: 50px;
+}
+   
+

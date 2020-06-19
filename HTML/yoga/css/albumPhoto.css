@@ -1,0 +1,25 @@
+table {
+    table-layout: fixed;
+    margin: 15px 0 0 100px;
+    background: black;
+    border: 2px solid;
+    
+}
+
+td, th, tr {
+    padding: 2px;
+}
+
+.photos {
+    width: 500px;
+	height: auto;
+}
+
+
+
+#footer {
+    background-color: #8B76D1;
+    text-align: center;
+    font-size: 1em;  
+    margin: 15px 0 0 0 ;
+}

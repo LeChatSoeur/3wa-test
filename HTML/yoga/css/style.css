@@ -1,0 +1,182 @@
+* {
+    box-sizing: border-box;
+
+}
+
+.bodyIndex, .bodyTableau {
+    font-size : 1em;
+    font-family: 'Playfair Display', serif;
+    
+    
+
+}
+/* HEADER*/
+
+header {
+    width: 100%;
+    height: 550px;
+    background-image: url("fond.jpg");
+    background-size: 100% auto;
+    background-position: center;
+}
+
+div {
+background-color: rgba(221, 204, 238, 0.2);
+
+}
+
+nav{
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+
+nav a {
+    font-size : 1.5em;
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+    padding: 15px 20px 0 20px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+
+   
+}
+
+.far {
+    display: block;
+
+}
+
+.fas {
+    display: block;
+
+}
+
+
+
+
+.offrePromo{
+    font-size : 1em;
+    color: white;
+    padding: 25px;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    background-color : rgba(224,202,238,0.15);
+}
+
+
+.titreBienvenue {
+    font-size: 2em;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    padding: 50px 0 0 0;
+    color: white;
+    text-shadow: 0px 0 5px black;
+    
+}
+
+.lienTitre {
+    text-decoration: none;
+
+}
+
+/*MAIN*/
+/* SECTION 1*/
+.titreArticleSection1 {
+    font-weight : normal ;
+    text-align: center;
+    color: #8592A2;
+    margin: 50px 0 25px 0;
+}
+
+    
+
+hr  {
+    color : #DCCEDD ;
+    clear: both;
+    margin: 200px 0 70px 0;
+}
+
+.article1Section1, .rendezVousMinute, .jourSemaine {
+        color: #8592A2;
+        text-align: left;
+
+}
+
+.article2Section1 p {
+        color: #8592A2;
+        text-align: left;
+}
+
+
+.imageSection1 {
+    float: left;
+    padding: 0 15px 0 0;
+}
+
+
+.image2Section1 {
+    float: right;
+    padding: 0 0 0 15px;
+}
+
+
+/*SECTION 2 */
+
+
+.section2 {
+    background-image: url("background_section.jpg");
+    background-repeat: no-repeat;
+    background-size : 100%;
+    padding: 50px 0 50px 0;
+    margin: 180px 0 0 0;
+    color: white;
+    clear: both;
+    
+    }
+
+.section2 p {
+    font-weight : lighter ;
+    margin: 0 8%;
+}
+
+.article1Section2 {
+    display: inline-block;
+    vertical-align: top;
+    width : 33%;
+    text-align: center;
+    
+}
+
+.article2Section2 {
+    display: inline-block;
+    vertical-align: top;
+    width : 33%;
+    text-align: center;
+
+}
+
+.article3Section2 {
+    display: inline-block;
+    vertical-align: top;
+    width : 33%;
+    text-align: center;
+}
+    
+
+    
+
+/*FOOTER*/
+.footer {
+    background-image: url("background_section.jpg");
+    background-repeat: no-repeat;
+    background-size : 100%;
+    text-align: center;
+    font-size: 0.8em;  
+    color: white;
+    text-decoration: none;
+}
+
